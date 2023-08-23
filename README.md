@@ -11,25 +11,16 @@ This repository contains 10 mini projects implemented using Bash/Shell Script. E
 3. **Project 3**: CountDownTimer
    - Description: Just simply can countdown number (like 5 to 0)
 
-4. **Project 4**: [Project Name]
-   - Description: [Brief description of the project]
+4. **Project 4**: IMG2ASCII
+   - Description: Simply can convert Image to ASCII
 
-5. **Project 5**: [Project Name]
-   - Description: [Brief description of the project]
+5. **Project 5**: SystemInfo
+   - Description: Simply give you your system informations
 
-6. **Project 6**: [Project Name]
-   - Description: [Brief description of the project]
+6. **Project 6**: EncryptionDecryption
+   - Description: Encrypt/Decrypt file and text
 
-7. **Project 7**: [Project Name]
-   - Description: [Brief description of the project]
-
-8. **Project 8**: [Project Name]
-   - Description: [Brief description of the project]
-
-9. **Project 9**: [Project Name]
-   - Description: [Brief description of the project]
-
-10. **Project 10**: [Project Name]
-    - Description: [Brief description of the project]
+7. **Project 7**: SystemMonitorScript
+   - Description: System monitor jsut like task manager 
 
 Feel free to explore each project directory for more details and dive into the code. Contributions, suggestions, and feedback are always welcome!
