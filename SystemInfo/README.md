@@ -7,7 +7,7 @@ This shell script provides system information including CPU Usage, Memory Usage,
 To run the script, open a terminal and navigate to the directory where the script is located. Then, execute the following command:
 
 ```bash
-./system_info.sh
+./main.sh
 ```
 
 ## System Information
