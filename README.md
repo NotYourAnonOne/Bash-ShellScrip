@@ -1,6 +1,6 @@
 # Mini Projects using Bash/Shell Script
 
-This repository contains 10 mini projects implemented using Bash/Shell Script. Each project is designed to showcase different functionalities and concepts of Bash scripting. Below is a brief description of each project:
+This repository contains 7 mini projects implemented using Bash/Shell Script. Each project is designed to showcase different functionalities and concepts of Bash scripting. Below is a brief description of each project:
 
 1. **Project 1**: MD2HTML
    - Description: Convert .md file to HTML file
