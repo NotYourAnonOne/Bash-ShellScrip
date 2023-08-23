@@ -6,6 +6,27 @@ This script is used to convert Markdown files to HTML using pandoc. It checks if
 
 Before using this script, ensure that pandoc is installed on your system. If pandoc is not installed, please install it first.
 
+## Install
+Debian/Ubuntu:
+```bash
+sudo apt-get update
+sudo apt-get install pandoc
+```
+Fedora:
+```bash
+sudo dnf install pandoc
+```
+CentOS:
+```bash
+sudo yum install pandoc
+```
+MacOS:
+```bash
+brew install pandoc
+```
+Windows:
+ https://pandoc.org/installing.html#windows.
+
 ### Usage
 
 1. Run the script using the command `#!/bin/bash`.
