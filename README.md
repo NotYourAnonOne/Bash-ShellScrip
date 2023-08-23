@@ -2,11 +2,11 @@
 
 This repository contains 10 mini projects implemented using Bash/Shell Script. Each project is designed to showcase different functionalities and concepts of Bash scripting. Below is a brief description of each project:
 
-1. **Project 1**: [MD2HTML]
-   - Description: [Convert .md file to HTML file]
+1. **Project 1**: MD2HTML
+   - Description: Convert .md file to HTML file
 
-2. **Project 2**: [WordCounter]
-   - Description: [Just can count world and character in the specific file]
+2. **Project 2**: WordCounter
+   - Description: Just can count world and character in the specific file
 
 3. **Project 3**: [Project Name]
    - Description: [Brief description of the project]
